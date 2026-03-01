@@ -1,6 +1,9 @@
 # E-Library
 Aplikasi Perpustakaan Berbasis Website
 
+* Link Jurnal
+  https://drive.google.com/file/d/1fTn49kDtJcUDZNnmuF8sRirgByFR5ekr/view?usp=drivesdk
+  
 * Tampilan Login
 
 Login dengan
